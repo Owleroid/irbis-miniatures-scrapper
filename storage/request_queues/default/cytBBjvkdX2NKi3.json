@@ -1,0 +1,9 @@
+{
+	"id": "cytBBjvkdX2NKi3",
+	"json": "{\"id\":\"cytBBjvkdX2NKi3\",\"url\":\"http://irbis-miniatures.com/magazin/folder/art\",\"loadedUrl\":\"http://irbis-miniatures.com/magazin/folder/art\",\"uniqueKey\":\"http://irbis-miniatures.com/magazin/folder/art\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"collectionName\":\"ART\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-04-12T17:22:53.666Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "http://irbis-miniatures.com/magazin/folder/art",
+	"url": "http://irbis-miniatures.com/magazin/folder/art"
+}

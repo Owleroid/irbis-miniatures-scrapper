@@ -1,0 +1,640 @@
+{
+  "usableSessionsCount": 15,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_yxT5DlIH5V",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "stats",
+            "value": "1",
+            "expires": "2025-04-19T17:22:52.000Z",
+            "maxAge": 604800,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.182Z",
+            "lastAccessed": "2025-04-12T17:22:53.182Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-12T18:12:52.623Z",
+      "createdAt": "2025-04-12T17:22:52.623Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_RbmhS3SmzD",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "stats",
+            "value": "1",
+            "expires": "2025-04-19T17:22:53.000Z",
+            "maxAge": 604800,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.454Z",
+            "lastAccessed": "2025-04-12T17:22:53.454Z"
+          },
+          {
+            "key": "SHOP_LAST_FOLDER_ID_2648621",
+            "value": "236233421",
+            "expires": "2025-04-12T19:22:53.000Z",
+            "maxAge": 7200,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.454Z",
+            "lastAccessed": "2025-04-12T17:22:53.454Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-12T18:12:53.243Z",
+      "createdAt": "2025-04-12T17:22:53.243Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_9cvVRK83Um",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "stats",
+            "value": "1",
+            "expires": "2025-04-19T17:22:53.000Z",
+            "maxAge": 604800,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.549Z",
+            "lastAccessed": "2025-04-12T17:22:53.549Z"
+          },
+          {
+            "key": "SHOP_LAST_FOLDER_ID_2648621",
+            "value": "580407021",
+            "expires": "2025-04-12T19:22:53.000Z",
+            "maxAge": 7200,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.549Z",
+            "lastAccessed": "2025-04-12T17:22:53.549Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-12T18:12:53.247Z",
+      "createdAt": "2025-04-12T17:22:53.247Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_kOBV3FnmUa",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "stats",
+            "value": "1",
+            "expires": "2025-04-19T17:22:53.000Z",
+            "maxAge": 604800,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.599Z",
+            "lastAccessed": "2025-04-12T17:22:53.599Z"
+          },
+          {
+            "key": "SHOP_LAST_FOLDER_ID_2648621",
+            "value": "613561621",
+            "expires": "2025-04-12T19:22:53.000Z",
+            "maxAge": 7200,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.600Z",
+            "lastAccessed": "2025-04-12T17:22:53.600Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-12T18:12:53.251Z",
+      "createdAt": "2025-04-12T17:22:53.251Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_7zobggIE9h",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "stats",
+            "value": "1",
+            "expires": "2025-04-19T17:22:53.000Z",
+            "maxAge": 604800,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.504Z",
+            "lastAccessed": "2025-04-12T17:22:53.504Z"
+          },
+          {
+            "key": "SHOP_LAST_FOLDER_ID_2648621",
+            "value": "740443621",
+            "expires": "2025-04-12T19:22:53.000Z",
+            "maxAge": 7200,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.504Z",
+            "lastAccessed": "2025-04-12T17:22:53.504Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-12T18:12:53.256Z",
+      "createdAt": "2025-04-12T17:22:53.256Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_QZ7GNcu8gD",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "stats",
+            "value": "1",
+            "expires": "2025-04-19T17:22:53.000Z",
+            "maxAge": 604800,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.577Z",
+            "lastAccessed": "2025-04-12T17:22:53.577Z"
+          },
+          {
+            "key": "SHOP_LAST_FOLDER_ID_2648621",
+            "value": "88931441",
+            "expires": "2025-04-12T19:22:53.000Z",
+            "maxAge": 7200,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.577Z",
+            "lastAccessed": "2025-04-12T17:22:53.577Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-12T18:12:53.260Z",
+      "createdAt": "2025-04-12T17:22:53.260Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_p4IQJMiSwH",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "stats",
+            "value": "1",
+            "expires": "2025-04-19T17:22:53.000Z",
+            "maxAge": 604800,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.535Z",
+            "lastAccessed": "2025-04-12T17:22:53.535Z"
+          },
+          {
+            "key": "SHOP_LAST_FOLDER_ID_2648621",
+            "value": "236234021",
+            "expires": "2025-04-12T19:22:53.000Z",
+            "maxAge": 7200,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.536Z",
+            "lastAccessed": "2025-04-12T17:22:53.536Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-12T18:12:53.263Z",
+      "createdAt": "2025-04-12T17:22:53.263Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_Vq8TpyGwSr",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "stats",
+            "value": "1",
+            "expires": "2025-04-19T17:22:53.000Z",
+            "maxAge": 604800,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.527Z",
+            "lastAccessed": "2025-04-12T17:22:53.527Z"
+          },
+          {
+            "key": "SHOP_LAST_FOLDER_ID_2648621",
+            "value": "236233021",
+            "expires": "2025-04-12T19:22:53.000Z",
+            "maxAge": 7200,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.528Z",
+            "lastAccessed": "2025-04-12T17:22:53.528Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-12T18:12:53.265Z",
+      "createdAt": "2025-04-12T17:22:53.265Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_wq8YdVaHt9",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "stats",
+            "value": "1",
+            "expires": "2025-04-19T17:22:53.000Z",
+            "maxAge": 604800,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.562Z",
+            "lastAccessed": "2025-04-12T17:22:53.562Z"
+          },
+          {
+            "key": "SHOP_LAST_FOLDER_ID_2648621",
+            "value": "108212841",
+            "expires": "2025-04-12T19:22:53.000Z",
+            "maxAge": 7200,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.562Z",
+            "lastAccessed": "2025-04-12T17:22:53.562Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-12T18:12:53.268Z",
+      "createdAt": "2025-04-12T17:22:53.268Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_dbBnZg8KI7",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "stats",
+            "value": "1",
+            "expires": "2025-04-19T17:22:53.000Z",
+            "maxAge": 604800,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.587Z",
+            "lastAccessed": "2025-04-12T17:22:53.587Z"
+          },
+          {
+            "key": "SHOP_LAST_FOLDER_ID_2648621",
+            "value": "198398411",
+            "expires": "2025-04-12T19:22:53.000Z",
+            "maxAge": 7200,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.587Z",
+            "lastAccessed": "2025-04-12T17:22:53.587Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-12T18:12:53.271Z",
+      "createdAt": "2025-04-12T17:22:53.271Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_Zxi79YwdPg",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "stats",
+            "value": "1",
+            "expires": "2025-04-19T17:22:53.000Z",
+            "maxAge": 604800,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.486Z",
+            "lastAccessed": "2025-04-12T17:22:53.486Z"
+          },
+          {
+            "key": "SHOP_LAST_FOLDER_ID_2648621",
+            "value": "246608501",
+            "expires": "2025-04-12T19:22:53.000Z",
+            "maxAge": 7200,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.486Z",
+            "lastAccessed": "2025-04-12T17:22:53.486Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-12T18:12:53.273Z",
+      "createdAt": "2025-04-12T17:22:53.273Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_T4whi0zIne",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "stats",
+            "value": "1",
+            "expires": "2025-04-19T17:22:53.000Z",
+            "maxAge": 604800,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.639Z",
+            "lastAccessed": "2025-04-12T17:22:53.639Z"
+          },
+          {
+            "key": "SHOP_LAST_FOLDER_ID_2648621",
+            "value": "179097904",
+            "expires": "2025-04-12T19:22:53.000Z",
+            "maxAge": 7200,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.639Z",
+            "lastAccessed": "2025-04-12T17:22:53.639Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-12T18:12:53.463Z",
+      "createdAt": "2025-04-12T17:22:53.463Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_JIxJo8hKNv",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "stats",
+            "value": "1",
+            "expires": "2025-04-19T17:22:53.000Z",
+            "maxAge": 604800,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.653Z",
+            "lastAccessed": "2025-04-12T17:22:53.653Z"
+          },
+          {
+            "key": "SHOP_LAST_FOLDER_ID_2648621",
+            "value": "236233221",
+            "expires": "2025-04-12T19:22:53.000Z",
+            "maxAge": 7200,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.653Z",
+            "lastAccessed": "2025-04-12T17:22:53.653Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-12T18:12:53.494Z",
+      "createdAt": "2025-04-12T17:22:53.494Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_DcuE7BuSX8",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "stats",
+            "value": "1",
+            "expires": "2025-04-19T17:22:53.000Z",
+            "maxAge": 604800,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.819Z",
+            "lastAccessed": "2025-04-12T17:22:53.819Z"
+          },
+          {
+            "key": "SHOP_LAST_FOLDER_ID_2648621",
+            "value": "59310211",
+            "expires": "2025-04-12T19:22:53.000Z",
+            "maxAge": 7200,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.819Z",
+            "lastAccessed": "2025-04-12T17:22:53.819Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-12T18:12:53.624Z",
+      "createdAt": "2025-04-12T17:22:53.624Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_mbBAGOGrt2",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "stats",
+            "value": "1",
+            "expires": "2025-04-19T17:22:53.000Z",
+            "maxAge": 604800,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.890Z",
+            "lastAccessed": "2025-04-12T17:22:53.890Z"
+          },
+          {
+            "key": "SHOP_LAST_FOLDER_ID_2648621",
+            "value": "100784411",
+            "expires": "2025-04-12T19:22:53.000Z",
+            "maxAge": 7200,
+            "domain": "irbis-miniatures.com",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-04-12T17:22:53.890Z",
+            "lastAccessed": "2025-04-12T17:22:53.890Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-04-12T18:12:53.677Z",
+      "createdAt": "2025-04-12T17:22:53.677Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}
