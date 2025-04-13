@@ -1,7 +1,10 @@
 import { CheerioCrawler, RequestQueue } from "crawlee";
 
 import { router } from "./routes.js";
-import { exportProductsGroupedByCollection } from "./utils.js";
+import {
+  exportProductsGroupedByCollection,
+  sendDataToBackend,
+} from "./utils.js";
 
 const startUrls = ["http://irbis-miniatures.com/"];
 
@@ -27,6 +30,10 @@ const startUrls = ["http://irbis-miniatures.com/"];
     console.log(
       "Data export completed. Check the key-value store for products_by_collection.json."
     );
+
+    // Uncomment the following lines to send data to the backend
+    // await sendDataToBackend();
+    // console.log("Data sent to the backend successfully.");
   } catch (error) {
     console.error("An error occurred during the crawl:", error);
   }
