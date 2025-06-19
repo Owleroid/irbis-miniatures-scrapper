@@ -1,15 +1,32 @@
 import { CheerioCrawler, RequestQueue } from "crawlee";
+import fs from "fs";
+import path from "path";
 
 import { router } from "./routes.js";
 import {
   exportProductsGroupedByCollection,
   sendDataToBackend,
+  exportProductImages,
 } from "./utils.js";
 
 const startUrls = ["http://irbis-miniatures.com/"];
 
 (async () => {
   try {
+    // Create output directories
+    const outputDir = path.join(process.cwd(), "output");
+    const imagesDir = path.join(outputDir, "images");
+
+    if (!fs.existsSync(outputDir)) {
+      fs.mkdirSync(outputDir, { recursive: true });
+      console.log(`Created output directory: ${outputDir}`);
+    }
+
+    if (!fs.existsSync(imagesDir)) {
+      fs.mkdirSync(imagesDir, { recursive: true });
+      console.log(`Created images directory: ${imagesDir}`);
+    }
+
     console.log("Initializing request queue...");
     const requestQueue = await RequestQueue.open();
 
@@ -20,7 +37,8 @@ const startUrls = ["http://irbis-miniatures.com/"];
     const crawler = new CheerioCrawler({
       requestQueue,
       requestHandler: router,
-      maxRequestsPerCrawl: 50,
+      maxRequestsPerCrawl: 500, // Increased to handle product detail pages
+      maxConcurrency: 10, // Increased concurrency for faster crawling
     });
 
     await crawler.run();
@@ -29,6 +47,11 @@ const startUrls = ["http://irbis-miniatures.com/"];
     await exportProductsGroupedByCollection();
     console.log(
       "Data export completed. Check the key-value store for products_by_collection.json."
+    );
+
+    await exportProductImages();
+    console.log(
+      "Product images data export completed. Check the key-value store for product_images.json."
     );
 
     // Uncomment the following lines to send data to the backend

@@ -56,6 +56,35 @@ export async function exportProductsGroupedByCollection() {
 }
 
 /**
+ * Export product images data to a JSON file.
+ */
+export async function exportProductImages() {
+  console.log("Exporting product images data...");
+
+  try {
+    const productImagesDataset = await Dataset.open("product_images");
+    const productImagesData = await productImagesDataset.getData();
+
+    if (productImagesData.items.length === 0) {
+      console.log("No product images data found.");
+      return;
+    }
+
+    const keyValueStore = await KeyValueStore.open();
+    await keyValueStore.setValue(
+      "product_images.json",
+      productImagesData.items
+    );
+
+    console.log(
+      `Exported data for ${productImagesData.items.length} products with images to product_images.json in the key-value store.`
+    );
+  } catch (error) {
+    console.error("Error exporting product images data:", error);
+  }
+}
+
+/**
  * Send collections and products grouped by collection to a backend API.
  */
 export async function sendDataToBackend() {

@@ -13,6 +13,7 @@ logs/
 dist/
 build/
 storage/
+output/
 
 # Environment variables
 .env
